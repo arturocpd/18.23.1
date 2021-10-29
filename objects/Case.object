@@ -267,7 +267,7 @@
         <label>BitCoin</label>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
-        <trackTrending>false</trackTrending>
+        <trackTrending>true</trackTrending>
         <type>Checkbox</type>
     </fields>
     <fields>
