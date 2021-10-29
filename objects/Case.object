@@ -1838,7 +1838,7 @@
         <fullName>Priority</fullName>
         <trackFeedHistory>true</trackFeedHistory>
         <trackHistory>true</trackHistory>
-        <trackTrending>false</trackTrending>
+        <trackTrending>true</trackTrending>
         <type>Picklist</type>
     </fields>
     <fields>
