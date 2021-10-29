@@ -1837,8 +1837,8 @@
         <externalId>false</externalId>
         <label>Prod field 1</label>
         <trackFeedHistory>false</trackFeedHistory>
-        <trackHistory>false</trackHistory>
-        <trackTrending>false</trackTrending>
+        <trackHistory>true</trackHistory>
+        <trackTrending>true</trackTrending>
         <type>Checkbox</type>
     </fields>
     <fields>
