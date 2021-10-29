@@ -12,7 +12,7 @@
     </alerts>
     <fieldUpdates>
         <fullName>Update_Origin</fullName>
-        <description>This is the field update</description>
+        <description>CLI Update</description>
         <field>Origin</field>
         <literalValue>Email</literalValue>
         <name>Update Origin</name>
