@@ -263,11 +263,12 @@
     <fields>
         <fullName>BitCoin__c</fullName>
         <defaultValue>false</defaultValue>
+        <description>BitCoin description</description>
         <externalId>false</externalId>
         <label>BitCoin</label>
         <trackFeedHistory>false</trackFeedHistory>
         <trackHistory>false</trackHistory>
-        <trackTrending>true</trackTrending>
+        <trackTrending>false</trackTrending>
         <type>Checkbox</type>
     </fields>
     <fields>
