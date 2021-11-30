@@ -2,7 +2,7 @@
 <Workflow xmlns="http://soap.sforce.com/2006/04/metadata">
     <alerts>
         <fullName>Email_Alert_1</fullName>
-        <description>Email Alert 1</description>
+        <description>Email Alert Change in CLI</description>
         <protected>false</protected>
         <recipients>
             <type>owner</type>
