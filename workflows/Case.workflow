@@ -22,6 +22,21 @@
         <reevaluateOnChange>false</reevaluateOnChange>
     </fieldUpdates>
     <rules>
+        <fullName>Org wide alert</fullName>
+        <actions>
+            <name>Email_alert_from_wide</name>
+            <type>Alert</type>
+        </actions>
+        <active>true</active>
+        <criteriaItems>
+            <field>Case.BusinessHoursId</field>
+            <operation>equals</operation>
+            <value>Default</value>
+        </criteriaItems>
+        <description>Description for commit in UI</description>
+        <triggerType>onCreateOnly</triggerType>
+    </rules>
+    <rules>
         <fullName>Update origin</fullName>
         <actions>
             <name>Update_Origin</name>
